@@ -6,7 +6,7 @@
 Hi, I'm Samuel Trew.
 
 - 🔭 I’m currently working on a digital health product to help alleviate critical care overload.
-- 🌱 I’m currently learning how to make a proper web-app from scratch 😅
+- 🌱 Constantly learning how to be a better Frontend/Full-Stack Engineer
 - 💬 Ask me about federated learning (iykyk)
 
 ## Stats
@@ -17,8 +17,5 @@ Hi, I'm Samuel Trew.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelTrew&count_private=true&show_icons=true&theme=synthwave" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTrew&layout=compact&count_private=true&show_icons=true&theme=synthwave" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelTrew&layout=compact&count_private=true&show_icons=true&theme=synthwave&langs_count=8&exclude_repo=WACC_Compiler&hide=TeX,HTML,CSS" />
 </p>
