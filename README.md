@@ -5,7 +5,7 @@
 -->
 Hi, I'm Samuel Trew.
 
-- 🔭 I’m currently working on a digital health product to help alleviate critical care overload.
+- 🧋 I’m currently working on a food review site for tracking the best and the worst restaurants and to build up my web-dev skills
 - 🌱 Constantly learning how to be a better Frontend/Full-Stack Engineer
 - 💬 Ask me about federated learning (iykyk)
 
